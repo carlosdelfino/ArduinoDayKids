@@ -756,11 +756,11 @@ header p {
   font-size: 14px;
   background-color: #FFE788;
 }
-#banner .downloads {
+#banner .links {
   float: right;
   margin: 0 45px 0 0;
 }
-#banner .downloads span {
+#banner .links span {
   float: left;
   line-height: 52px;
   font-size: 90%;
@@ -884,7 +884,7 @@ footer {
   #banner {
     width: 100%;
   }
-  #banner .downloads {
+  #banner .links {
     margin-right: 60px;
   }
   #banner #logo {
